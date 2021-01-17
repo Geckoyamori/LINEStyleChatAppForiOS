@@ -1,6 +1,6 @@
 //
 //  ChatRoomTableViewCell.swift
-//  MuscleRecommend
+//  LINEStyleChat
 //
 //  Created by 多喜和弘 on 2021/01/16.
 //
