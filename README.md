@@ -1,1 +1,2 @@
 # LINEStyleChatAppForiOS
+Youtuberアプリ開発所のLINE風chatアプリ作成を参考に作成
