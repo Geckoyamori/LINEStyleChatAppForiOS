@@ -18,8 +18,8 @@
 		6BEC8BA425AB1F7D00A5C413 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BEC8BA325AB1F7D00A5C413 /* SceneDelegate.swift */; };
 		6BEC8BAB25AB1F7E00A5C413 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6BEC8BAA25AB1F7E00A5C413 /* Assets.xcassets */; };
 		6BEC8BAE25AB1F7E00A5C413 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6BEC8BAC25AB1F7E00A5C413 /* LaunchScreen.storyboard */; };
-		6BEC8BB925AB1F7E00A5C413 /* MuscleRecommendTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BEC8BB825AB1F7E00A5C413 /* MuscleRecommendTests.swift */; };
-		6BEC8BC425AB1F7E00A5C413 /* MuscleRecommendUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BEC8BC325AB1F7E00A5C413 /* MuscleRecommendUITests.swift */; };
+		6BEC8BB925AB1F7E00A5C413 /* LINEStyleChatTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BEC8BB825AB1F7E00A5C413 /* LINEStyleChatTests.swift */; };
+		6BEC8BC425AB1F7E00A5C413 /* LINEStyleChatUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BEC8BC325AB1F7E00A5C413 /* LINEStyleChatUITests.swift */; };
 		6BEC8BDD25AC555C00A5C413 /* ChatList.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6BEC8BDC25AC555C00A5C413 /* ChatList.storyboard */; };
 		6BEC8BE225AC58ED00A5C413 /* ChatListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BEC8BE125AC58ED00A5C413 /* ChatListViewController.swift */; };
 /* End PBXBuildFile section */
@@ -49,17 +49,17 @@
 		6BE02EFA25B32E7E00589F15 /* ChatRoomTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatRoomTableViewCell.swift; sourceTree = "<group>"; };
 		6BE02F0225B3FC8500589F15 /* ChatInputAccessoryView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ChatInputAccessoryView.xib; sourceTree = "<group>"; };
 		6BE02F0A25B3FEB300589F15 /* ChatInputAccessoryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatInputAccessoryView.swift; sourceTree = "<group>"; };
-		6BEC8B9E25AB1F7D00A5C413 /* MuscleRecommend.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MuscleRecommend.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		6BEC8B9E25AB1F7D00A5C413 /* LINEStyleChat.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LINEStyleChat.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6BEC8BA125AB1F7D00A5C413 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6BEC8BA325AB1F7D00A5C413 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		6BEC8BAA25AB1F7E00A5C413 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6BEC8BAD25AB1F7E00A5C413 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6BEC8BAF25AB1F7E00A5C413 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		6BEC8BB425AB1F7E00A5C413 /* MuscleRecommendTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MuscleRecommendTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		6BEC8BB825AB1F7E00A5C413 /* MuscleRecommendTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MuscleRecommendTests.swift; sourceTree = "<group>"; };
+		6BEC8BB425AB1F7E00A5C413 /* LINEStyleChatTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LINEStyleChatTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		6BEC8BB825AB1F7E00A5C413 /* LINEStyleChatTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LINEStyleChatTests.swift; sourceTree = "<group>"; };
 		6BEC8BBA25AB1F7E00A5C413 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		6BEC8BBF25AB1F7E00A5C413 /* MuscleRecommendUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MuscleRecommendUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		6BEC8BC325AB1F7E00A5C413 /* MuscleRecommendUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MuscleRecommendUITests.swift; sourceTree = "<group>"; };
+		6BEC8BBF25AB1F7E00A5C413 /* LINEStyleChatUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LINEStyleChatUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		6BEC8BC325AB1F7E00A5C413 /* LINEStyleChatUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LINEStyleChatUITests.swift; sourceTree = "<group>"; };
 		6BEC8BC525AB1F7E00A5C413 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6BEC8BDC25AC555C00A5C413 /* ChatList.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = ChatList.storyboard; sourceTree = "<group>"; };
 		6BEC8BE125AC58ED00A5C413 /* ChatListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatListViewController.swift; sourceTree = "<group>"; };
@@ -119,9 +119,9 @@
 		6BEC8B9525AB1F7D00A5C413 = {
 			isa = PBXGroup;
 			children = (
-				6BEC8BA025AB1F7D00A5C413 /* MuscleRecommend */,
-				6BEC8BB725AB1F7E00A5C413 /* MuscleRecommendTests */,
-				6BEC8BC225AB1F7E00A5C413 /* MuscleRecommendUITests */,
+				6BEC8BA025AB1F7D00A5C413 /* LINEStyleChat */,
+				6BEC8BB725AB1F7E00A5C413 /* LINEStyleChatTests */,
+				6BEC8BC225AB1F7E00A5C413 /* LINEStyleChatUITests */,
 				6BEC8B9F25AB1F7D00A5C413 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -129,14 +129,14 @@
 		6BEC8B9F25AB1F7D00A5C413 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				6BEC8B9E25AB1F7D00A5C413 /* MuscleRecommend.app */,
-				6BEC8BB425AB1F7E00A5C413 /* MuscleRecommendTests.xctest */,
-				6BEC8BBF25AB1F7E00A5C413 /* MuscleRecommendUITests.xctest */,
+				6BEC8B9E25AB1F7D00A5C413 /* LINEStyleChat.app */,
+				6BEC8BB425AB1F7E00A5C413 /* LINEStyleChatTests.xctest */,
+				6BEC8BBF25AB1F7E00A5C413 /* LINEStyleChatUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		6BEC8BA025AB1F7D00A5C413 /* MuscleRecommend */ = {
+		6BEC8BA025AB1F7D00A5C413 /* LINEStyleChat */ = {
 			isa = PBXGroup;
 			children = (
 				6BE02F0125B3FC5000589F15 /* Extension */,
@@ -150,25 +150,25 @@
 				6BEC8BAC25AB1F7E00A5C413 /* LaunchScreen.storyboard */,
 				6BEC8BAF25AB1F7E00A5C413 /* Info.plist */,
 			);
-			path = MuscleRecommend;
+			path = LINEStyleChat;
 			sourceTree = "<group>";
 		};
-		6BEC8BB725AB1F7E00A5C413 /* MuscleRecommendTests */ = {
+		6BEC8BB725AB1F7E00A5C413 /* LINEStyleChatTests */ = {
 			isa = PBXGroup;
 			children = (
-				6BEC8BB825AB1F7E00A5C413 /* MuscleRecommendTests.swift */,
+				6BEC8BB825AB1F7E00A5C413 /* LINEStyleChatTests.swift */,
 				6BEC8BBA25AB1F7E00A5C413 /* Info.plist */,
 			);
-			path = MuscleRecommendTests;
+			path = LINEStyleChatTests;
 			sourceTree = "<group>";
 		};
-		6BEC8BC225AB1F7E00A5C413 /* MuscleRecommendUITests */ = {
+		6BEC8BC225AB1F7E00A5C413 /* LINEStyleChatUITests */ = {
 			isa = PBXGroup;
 			children = (
-				6BEC8BC325AB1F7E00A5C413 /* MuscleRecommendUITests.swift */,
+				6BEC8BC325AB1F7E00A5C413 /* LINEStyleChatUITests.swift */,
 				6BEC8BC525AB1F7E00A5C413 /* Info.plist */,
 			);
-			path = MuscleRecommendUITests;
+			path = LINEStyleChatUITests;
 			sourceTree = "<group>";
 		};
 		6BEC8BF325B308CC00A5C413 /* Controller */ = {
@@ -192,9 +192,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		6BEC8B9D25AB1F7D00A5C413 /* MuscleRecommend */ = {
+		6BEC8B9D25AB1F7D00A5C413 /* LINEStyleChat */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6BEC8BC825AB1F7E00A5C413 /* Build configuration list for PBXNativeTarget "MuscleRecommend" */;
+			buildConfigurationList = 6BEC8BC825AB1F7E00A5C413 /* Build configuration list for PBXNativeTarget "LINEStyleChat" */;
 			buildPhases = (
 				6BEC8B9A25AB1F7D00A5C413 /* Sources */,
 				6BEC8B9B25AB1F7D00A5C413 /* Frameworks */,
@@ -204,14 +204,14 @@
 			);
 			dependencies = (
 			);
-			name = MuscleRecommend;
+			name = LINEStyleChat;
 			productName = MuscleRecommend;
-			productReference = 6BEC8B9E25AB1F7D00A5C413 /* MuscleRecommend.app */;
+			productReference = 6BEC8B9E25AB1F7D00A5C413 /* LINEStyleChat.app */;
 			productType = "com.apple.product-type.application";
 		};
-		6BEC8BB325AB1F7E00A5C413 /* MuscleRecommendTests */ = {
+		6BEC8BB325AB1F7E00A5C413 /* LINEStyleChatTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6BEC8BCB25AB1F7E00A5C413 /* Build configuration list for PBXNativeTarget "MuscleRecommendTests" */;
+			buildConfigurationList = 6BEC8BCB25AB1F7E00A5C413 /* Build configuration list for PBXNativeTarget "LINEStyleChatTests" */;
 			buildPhases = (
 				6BEC8BB025AB1F7E00A5C413 /* Sources */,
 				6BEC8BB125AB1F7E00A5C413 /* Frameworks */,
@@ -222,14 +222,14 @@
 			dependencies = (
 				6BEC8BB625AB1F7E00A5C413 /* PBXTargetDependency */,
 			);
-			name = MuscleRecommendTests;
+			name = LINEStyleChatTests;
 			productName = MuscleRecommendTests;
-			productReference = 6BEC8BB425AB1F7E00A5C413 /* MuscleRecommendTests.xctest */;
+			productReference = 6BEC8BB425AB1F7E00A5C413 /* LINEStyleChatTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		6BEC8BBE25AB1F7E00A5C413 /* MuscleRecommendUITests */ = {
+		6BEC8BBE25AB1F7E00A5C413 /* LINEStyleChatUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6BEC8BCE25AB1F7E00A5C413 /* Build configuration list for PBXNativeTarget "MuscleRecommendUITests" */;
+			buildConfigurationList = 6BEC8BCE25AB1F7E00A5C413 /* Build configuration list for PBXNativeTarget "LINEStyleChatUITests" */;
 			buildPhases = (
 				6BEC8BBB25AB1F7E00A5C413 /* Sources */,
 				6BEC8BBC25AB1F7E00A5C413 /* Frameworks */,
@@ -240,9 +240,9 @@
 			dependencies = (
 				6BEC8BC125AB1F7E00A5C413 /* PBXTargetDependency */,
 			);
-			name = MuscleRecommendUITests;
+			name = LINEStyleChatUITests;
 			productName = MuscleRecommendUITests;
-			productReference = 6BEC8BBF25AB1F7E00A5C413 /* MuscleRecommendUITests.xctest */;
+			productReference = 6BEC8BBF25AB1F7E00A5C413 /* LINEStyleChatUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -267,7 +267,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 6BEC8B9925AB1F7D00A5C413 /* Build configuration list for PBXProject "MuscleRecommend" */;
+			buildConfigurationList = 6BEC8B9925AB1F7D00A5C413 /* Build configuration list for PBXProject "LINEStyleChat" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -280,9 +280,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				6BEC8B9D25AB1F7D00A5C413 /* MuscleRecommend */,
-				6BEC8BB325AB1F7E00A5C413 /* MuscleRecommendTests */,
-				6BEC8BBE25AB1F7E00A5C413 /* MuscleRecommendUITests */,
+				6BEC8B9D25AB1F7D00A5C413 /* LINEStyleChat */,
+				6BEC8BB325AB1F7E00A5C413 /* LINEStyleChatTests */,
+				6BEC8BBE25AB1F7E00A5C413 /* LINEStyleChatUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -336,7 +336,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6BEC8BB925AB1F7E00A5C413 /* MuscleRecommendTests.swift in Sources */,
+				6BEC8BB925AB1F7E00A5C413 /* LINEStyleChatTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -344,7 +344,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6BEC8BC425AB1F7E00A5C413 /* MuscleRecommendUITests.swift in Sources */,
+				6BEC8BC425AB1F7E00A5C413 /* LINEStyleChatUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -353,12 +353,12 @@
 /* Begin PBXTargetDependency section */
 		6BEC8BB625AB1F7E00A5C413 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 6BEC8B9D25AB1F7D00A5C413 /* MuscleRecommend */;
+			target = 6BEC8B9D25AB1F7D00A5C413 /* LINEStyleChat */;
 			targetProxy = 6BEC8BB525AB1F7E00A5C413 /* PBXContainerItemProxy */;
 		};
 		6BEC8BC125AB1F7E00A5C413 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 6BEC8B9D25AB1F7D00A5C413 /* MuscleRecommend */;
+			target = 6BEC8B9D25AB1F7D00A5C413 /* LINEStyleChat */;
 			targetProxy = 6BEC8BC025AB1F7E00A5C413 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -498,12 +498,12 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = L6CD882LCX;
-				INFOPLIST_FILE = MuscleRecommend/Info.plist;
+				INFOPLIST_FILE = LINEStyleChat/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = geckoyamori.MuscleRecommend;
+				PRODUCT_BUNDLE_IDENTIFIER = geckoyamori.LINEStyleChat;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -517,12 +517,12 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = L6CD882LCX;
-				INFOPLIST_FILE = MuscleRecommend/Info.plist;
+				INFOPLIST_FILE = LINEStyleChat/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = geckoyamori.MuscleRecommend;
+				PRODUCT_BUNDLE_IDENTIFIER = geckoyamori.LINEStyleChat;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -536,18 +536,18 @@
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = L6CD882LCX;
-				INFOPLIST_FILE = MuscleRecommendTests/Info.plist;
+				INFOPLIST_FILE = LINEStyleChatTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = geckoyamori.MuscleRecommendTests;
+				PRODUCT_BUNDLE_IDENTIFIER = geckoyamori.LINEStyleChatTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MuscleRecommend.app/MuscleRecommend";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/LINEStyleChat.app/LINEStyleChat";
 			};
 			name = Debug;
 		};
@@ -558,18 +558,18 @@
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = L6CD882LCX;
-				INFOPLIST_FILE = MuscleRecommendTests/Info.plist;
+				INFOPLIST_FILE = LINEStyleChatTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = geckoyamori.MuscleRecommendTests;
+				PRODUCT_BUNDLE_IDENTIFIER = geckoyamori.LINEStyleChatTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MuscleRecommend.app/MuscleRecommend";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/LINEStyleChat.app/LINEStyleChat";
 			};
 			name = Release;
 		};
@@ -579,17 +579,17 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = L6CD882LCX;
-				INFOPLIST_FILE = MuscleRecommendUITests/Info.plist;
+				INFOPLIST_FILE = LINEStyleChatUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = geckoyamori.MuscleRecommendUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = LINEStyleChatUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = MuscleRecommend;
+				TEST_TARGET_NAME = LINEStyleChat;
 			};
 			name = Debug;
 		};
@@ -599,24 +599,24 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = L6CD882LCX;
-				INFOPLIST_FILE = MuscleRecommendUITests/Info.plist;
+				INFOPLIST_FILE = LINEStyleChatUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = geckoyamori.MuscleRecommendUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = LINEStyleChatUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = MuscleRecommend;
+				TEST_TARGET_NAME = LINEStyleChat;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		6BEC8B9925AB1F7D00A5C413 /* Build configuration list for PBXProject "MuscleRecommend" */ = {
+		6BEC8B9925AB1F7D00A5C413 /* Build configuration list for PBXProject "LINEStyleChat" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6BEC8BC625AB1F7E00A5C413 /* Debug */,
@@ -625,7 +625,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6BEC8BC825AB1F7E00A5C413 /* Build configuration list for PBXNativeTarget "MuscleRecommend" */ = {
+		6BEC8BC825AB1F7E00A5C413 /* Build configuration list for PBXNativeTarget "LINEStyleChat" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6BEC8BC925AB1F7E00A5C413 /* Debug */,
@@ -634,7 +634,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6BEC8BCB25AB1F7E00A5C413 /* Build configuration list for PBXNativeTarget "MuscleRecommendTests" */ = {
+		6BEC8BCB25AB1F7E00A5C413 /* Build configuration list for PBXNativeTarget "LINEStyleChatTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6BEC8BCC25AB1F7E00A5C413 /* Debug */,
@@ -643,7 +643,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6BEC8BCE25AB1F7E00A5C413 /* Build configuration list for PBXNativeTarget "MuscleRecommendUITests" */ = {
+		6BEC8BCE25AB1F7E00A5C413 /* Build configuration list for PBXNativeTarget "LINEStyleChatUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6BEC8BCF25AB1F7E00A5C413 /* Debug */,

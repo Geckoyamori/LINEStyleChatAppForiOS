@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:">
+      location = "self:/Users/Gecko/git_for_application/Xcode/LINEStyleChatAppForiOS/LINEStyleChat/LINEStyleChat.xcodeproj">
    </FileRef>
 </Workspace>
